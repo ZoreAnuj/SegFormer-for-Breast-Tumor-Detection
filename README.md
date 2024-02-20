@@ -1,4 +1,4 @@
-# SegFormer-for-Breast-Cancer-Tumor-Detection
+# SegFormer-for-Breast-Cancer-Tumor-Segmentation
 
 ## Members
 Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
